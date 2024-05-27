@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gastonviveros.edu@gmail.com
+	name = Gaston Viveros
